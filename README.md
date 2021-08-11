@@ -6,7 +6,8 @@
 
 <h4>.env file</h4>
 <p>Please create a .env file with the following data:</p>
-```js
+
+```javascript
 AWS_ACCESS_KEY='JDSUOI23987....'
 AWS_SECRET_ACCESS_KEY='JKDHKJHD.....'
 AWS_S3_BUCKET_NAME='...'
