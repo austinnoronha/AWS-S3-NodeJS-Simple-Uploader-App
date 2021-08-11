@@ -6,12 +6,12 @@
 
 <h4>.env file</h4>
 <p>Please create a .env file with the following data:</p>
-<code>
+`
 AWS_ACCESS_KEY='JDSUOI23987....'
 AWS_SECRET_ACCESS_KEY='JKDHKJHD.....'
 AWS_S3_BUCKET_NAME='...'
 AWS_S3_REGION='us-east-...'
-</code>
+`
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=austinnoronha&label=Profile%20views&color=0e75b6&style=flat" alt="austinnoronha" /> </p>
 
