@@ -4,6 +4,12 @@
 <h2>Project Information</h2>
 <p>This is a simple NodeJs application to provide an easier understanding on how to integrate AWS SDK plugin for Upload and Listing Objects from S3 Bucket</p>
 
+Environment variable name |	Value
+--------------------------|-------
+AWS_ACCESS_KEY_ID |	Your Access key ID
+AWS_SECRET_ACCESS_KEY	| Your Secret access key
+AWS_DEFAULT_REGION	| Your region code
+
 <h4>.env file</h4>
 <p>Please create a .env file with the following data:</p>
 
